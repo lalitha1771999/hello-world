@@ -1,7 +1,12 @@
 # hello-world
-public class HelloWorld{
-public static void main(String[] args)
-{
-System.out.println("Hello");
-}
+public class MyClass {
+    public static void main(String args[]) {
+      int x=10;
+      float f=x;
+
+      System.out.println("hello wolrd");
+            System.out.println(x);
+                  System.out.println(f);
+      
+    }
 }
